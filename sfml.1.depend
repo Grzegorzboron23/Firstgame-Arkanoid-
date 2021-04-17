@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1618693343 source:c:\users\48795\desktop\sfml.1\main.cpp
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"kulki.h"
+	"paddle.h"
+	"Block.h"
+
+1618693467 c:\users\48795\desktop\sfml.1\include\kulki.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1618690554 source:c:\users\48795\desktop\sfml.1\src\kulki.cpp
+	"kulki.h"
+
+1618690497 c:\users\48795\desktop\sfml.1\include\paddle.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1618690569 source:c:\users\48795\desktop\sfml.1\src\paddle.cpp
+	"paddle.h"
+
+1618692164 source:c:\users\48795\desktop\sfml.1\src\block.cpp
+	"Block.h"
+
+1618692003 c:\users\48795\desktop\sfml.1\include\block.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
